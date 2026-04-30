@@ -1,4 +1,14 @@
-# CoinCollectorGame
+# 🪙 Coin Collector (libGDX | Java)
+
+A fast-paced 2D arcade game built using **Java + libGDX**, where players collect coins under a time limit while managing movement, score, and win/lose conditions.
+
+This project demonstrates core game development concepts such as game loops, collision detection, state management, and real-time input handling.
+
+---
+
+## 🎯 Project Goal
+
+To build a fully functional 2D game with clean architecture and real-time gameplay mechanics using libGDX framework.
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
